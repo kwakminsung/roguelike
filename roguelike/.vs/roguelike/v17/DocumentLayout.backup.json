@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|c:\\users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\assets\\code\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB3635-CD18-5B3D-7842-3532E0D98CE5}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\HUD.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\HUD.cs",
+              "RelativeToolTip": "Assets\\Code\\HUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:53:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Weapon.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Code\\Weapon.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:55:38.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Poolmanager.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Poolmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Poolmanager.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Poolmanager.cs",
+              "RelativeToolTip": "Assets\\Code\\Poolmanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:47:03.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Scanner.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Scanner.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Scanner.cs",
+              "RelativeToolTip": "Assets\\Code\\Scanner.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:57:14.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:25:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Spawner.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Code\\Spawner.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:08:14.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Gamemanager.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Code\\Gamemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:09:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reposition.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Reposition.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Reposition.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Reposition.cs",
+              "RelativeToolTip": "Assets\\Code\\Reposition.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:03:17.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Bullet.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Code\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:06:44.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Player.cs",
+              "ToolTip": "C:\\Users\\82108\\\uC790\uB8CC\\\uBC14\uD0D5 \uD654\uBA74\\roguelike\\roguelike\\Assets\\Code\\Player.cs",
+              "RelativeToolTip": "Assets\\Code\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:13:14.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

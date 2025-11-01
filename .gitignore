@@ -1,0 +1,10 @@
+# Git ignore rules 
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Aa]rtifactDB/
+[Ss]ourceDB/
+[Uu]serSettings/
+*.log
+
